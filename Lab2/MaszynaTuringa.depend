@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680528957 source:c:\users\krzysztof\desktop\maszynaturinga\main.cpp
+	<iostream>
+	<cstdlib>
+	<memory>
+	<algorithm>
+	<vector>
+	<time.h>
+
